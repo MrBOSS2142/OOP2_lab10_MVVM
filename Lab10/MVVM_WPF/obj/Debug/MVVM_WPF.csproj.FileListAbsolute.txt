@@ -1,0 +1,74 @@
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\bin\Debug\MVVM_WPF.exe.config
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\bin\Debug\MVVM_WPF.exe
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\bin\Debug\MVVM_WPF.pdb
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.g.resources
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.exe
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.pdb
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\ООП_1\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\bin\Debug\MVVM_WPF.exe.config
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\bin\Debug\MVVM_WPF.exe
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\bin\Debug\MVVM_WPF.pdb
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\App.g.cs
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF_MarkupCompile.cache
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF_MarkupCompile.lref
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.g.resources
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.Properties.Resources.resources
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.exe
+C:\Users\User\Downloads\MVVM_WPF\MVVM_WPF\obj\Debug\MVVM_WPF.pdb
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.csprojResolveAssemblyReference.cache
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.exe
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.pdb
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\bin\Debug\MVVM_WPF.exe.config
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\bin\Debug\MVVM_WPF.exe
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\bin\Debug\MVVM_WPF.pdb
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\bin\Debug\EntityFramework.dll
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\bin\Debug\EntityFramework.SqlServer.dll
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\bin\Debug\EntityFramework.xml
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\bin\Debug\EntityFramework.SqlServer.xml
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\View\MainWindow.g.cs
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\App.g.cs
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF_MarkupCompile.cache
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF_MarkupCompile.lref
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\View\MainWindow.baml
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.g.resources
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.Properties.Resources.resources
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.GenerateResource.cache
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.CoreCompileInputs.cache
+e:\Учеба\2 курс\2 семестр\ООП\OOP2\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.CopyComplete
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\bin\Debug\EntityFramework.dll
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\bin\Debug\EntityFramework.xml
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.csprojAssemblyReference.cache
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\View\MainWindow.g.cs
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\App.g.cs
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF_MarkupCompile.cache
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF_MarkupCompile.lref
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\View\MainWindow.baml
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.g.resources
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.Properties.Resources.resources
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.GenerateResource.cache
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.exe
+D:\Учеба\C#\OOP2_вторая)без9\Lab10\MVVM_WPF\obj\Debug\MVVM_WPF.pdb

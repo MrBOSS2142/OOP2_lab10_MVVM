@@ -1,0 +1,65 @@
+﻿<Window x:Class="MVVM_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="14" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="0.8*" />
+        </Grid.ColumnDefinitions>
+
+        <ListBox Grid.Column="0" ItemsSource="{Binding Subjects}"
+                 SelectedItem="{Binding SelectedSubject}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5" IsEnabled="True">
+                        <TextBlock FontSize="18" Text="{Binding Path=nameSubject}" />
+                        <TextBlock Text="{Binding Path=countLectures}" />
+                        <TextBlock Text="{Binding Path=countLabs}" />
+                        <TextBlock Text="{Binding Path=countListeners}" />
+                        <TextBlock Text="{Binding Path=nameReader}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Border  Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <Button Width="95" Margin="10" Command="{Binding NewCommand}">Новый</Button>
+                <Button Width="95" Margin="10" Command="{Binding AddCommand}"
+                    CommandParameter="{Binding SelectedSubject}">Добавить</Button>
+                <Button Width="95" Margin="10" Command="{Binding RemoveCommand}"
+                    CommandParameter="{Binding SelectedSubject}">Удалить</Button>
+            </StackPanel>
+        </Border>
+
+        <StackPanel Margin="10" Grid.Column="1" DataContext="{Binding SelectedSubject}">
+            <TextBlock Text="Название дисциплины" Margin="0 25 0 0"/>
+            <TextBox Text="{Binding nameSubject, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Количество лекций" />
+            <TextBox Text="{Binding countLectures, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Количество лабораторных" />
+            <TextBox Text="{Binding countLabs, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Количество слушателей" />
+            <TextBox Text="{Binding countListeners, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Имя читателя" />
+            <TextBox Text="{Binding nameReader, UpdateSourceTrigger=PropertyChanged}" />
+        </StackPanel>
+    </Grid>
+</Window>
